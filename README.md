@@ -19,3 +19,5 @@ See: https://github.com/oarriaga/face_classification
 The main file is age_gender_emotion.py. A filepath to the image is supplied on the command line. e.g. python ./age_gender_emotion.py -f ~/test_image/olympic_collage.jpg.
 The output is written into /labelled_image.
 
+# Sample Output
+![Image description](https://github.com/tennisonliu/Emotion_age_gender_classification/blob/master/labelled_image/sample.jpg)
